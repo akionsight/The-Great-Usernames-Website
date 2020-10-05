@@ -1,0 +1,46 @@
+body {
+    background-color: #36393F;
+    color: #DCDDDE;
+    font-family: sans-serif;
+}
+
+#title {
+    text-align: center;
+    font-size: 80px;
+    animation: backInDown;
+    animation-duration: 2000ms;
+}
+
+#short-description {
+    text-align: center;
+    font-size: 50px;
+    animation: rollIn;
+    animation-duration: 2000ms;
+}
+
+#refresh-button-div {
+    text-align: center;
+    animation: rotateIn;
+    animation-duration: 1000ms;
+    animation-delay: 2000ms;
+    animation-fill-mode: both;
+}
+
+#button-dsc {
+    text-align: center;
+    font-size: 25px;
+    animation: backInDown;
+    animation-duration: 1000ms;
+    animation-delay: 2000ms;
+    animation-fill-mode: both;
+}
+#button-dsc-emoji {
+    margin: auto;
+    display:table;
+    text-align: center;
+    font-size: 40px;
+    animation: jackInTheBox;
+    animation-duration: 1000ms;
+    animation-delay: 2000ms;
+    animation-fill-mode: both;
+}

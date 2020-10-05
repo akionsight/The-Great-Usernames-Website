@@ -1,7 +1,7 @@
 # The-Great-Usernames-Website
 The Great Usernames Website
 
-The Great Usernames Website is a website based on backend on my username generator <a href="github.com/akionsight/great-usernames">great-usernames</a>
+The Great Usernames Website is a website based on backend on my username generator <a href="https://github.com/akionsight/great-usernames" target="_blank">great-usernames</a>
 
 ## Usage 
 1. Make sure that flask is installed.

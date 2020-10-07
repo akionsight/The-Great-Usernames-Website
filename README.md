@@ -15,6 +15,6 @@ The Great Usernames Website is a website based on backend on my username generat
 5. **ENJOY**
 
 Note:
-1. Requires an internet connection to load icons and animations evemn on localhost
+1. Requires an internet connection to load icons and animations even on localhost
 
 2. CSS animations might blow your mind 😎

@@ -15,4 +15,4 @@ def give_username():
     return render_template('username_giver.html', username=username)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()
